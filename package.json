@@ -1,0 +1,25 @@
+{
+  "name": "full-stack-developer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vansh0004/Full-Stack-Developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vansh0004/Full-Stack-Developer/issues"
+  },
+  "homepage": "https://github.com/Vansh0004/Full-Stack-Developer#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "eslint": "^10.2.1",
+    "express": "^5.2.1"
+  }
+}
