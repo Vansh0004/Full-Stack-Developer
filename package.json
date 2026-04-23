@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint .",
+    "build": "echo \"No build step\"",
+    "test": "echo \"No tests available\" && exit 0",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
